@@ -1,0 +1,22 @@
+Git / Github    
+
+
+Alguns comandos:
+
+git status - verifica o status do repositorio
+
+git init - cria um novo repositorio
+
+cd .\nome da pasta\ - para entra em uma pasta criada
+
+git add 'nome do arquivo' - para adicionar um arquivo 
+
+git commit -m 'nome do commit' - para comitar no repositorio
+
+git branch -M master - onde o codigo correto do projeto estara depositado
+
+git remote add origin 'email aqui' - para add no repositorio remoto
+
+git remote -v - para verificar a origem do repositorio
+
+git remote rm origin - para remover a origem do repositorio
