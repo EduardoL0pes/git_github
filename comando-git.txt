@@ -43,3 +43,5 @@ ex.:git mv css/bannerinicia.css css/banner_inicia.css - para renomear o arquivo
 git checkout 'nome da pasta' - retorna para o estado original(estado que o arquivo esta no repo)
 
 .gitignore - ignora arquivos e diretorios de um projeto
+
+git reset --hard origin/master - deleta as alterações ate o ultimo commit feito 
