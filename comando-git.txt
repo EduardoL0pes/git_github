@@ -29,4 +29,6 @@ git add . - adiciona mais de um arquivo de uma vez
 
 git push - enviar o codigo para o repo remoto
 
-git pull - para 'puxar/pegar' um arquivo do repositorio da sua equipe ou de alguem que fez alguma alteração e enviou para o repo remoto obs: é bom sempre manter seu arquivo att 
+git pull - para 'puxar/pegar' um arquivo do repositorio da sua equipe ou de alguem que fez alguma alteração e enviou para o repo remoto obs: é bom sempre manter seu arquivo att.
+
+git clone - para clonar o repositorio
