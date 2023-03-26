@@ -11,7 +11,9 @@ cd .\nome da pasta\ - para entra em uma pasta criada
 
 git add 'nome do arquivo' - para adicionar um arquivo 
 
-git commit -m 'nome do commit' - para comitar no repositorio
+git commit 'nome do arquivo a ser comitado' -m 'nome do commit' - para comitar no repositorio
+
+git commit -a(all-todos) -m(message-mensagem) 'nome do commit' - para comitar em varios arquivos
 
 git branch -M master - onde o codigo correto do projeto estara depositado
 
@@ -20,3 +22,11 @@ git remote add origin 'email aqui' - para add no repositorio remoto
 git remote -v - para verificar a origem do repositorio
 
 git remote rm origin - para remover a origem do repositorio
+
+git add - adiciona um arquivo
+
+git add . - adiciona mais de um arquivo de uma vez
+
+git push - enviar o codigo para o repo remoto
+
+git pull - para 'puxar/pegar' um arquivo do repositorio da sua equipe ou de alguem que fez alguma alteração e enviou para o repo remoto obs: é bom sempre manter seu arquivo att 
