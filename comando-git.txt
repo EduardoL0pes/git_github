@@ -32,3 +32,15 @@ git push - enviar o codigo para o repo remoto
 git pull - para 'puxar/pegar' um arquivo do repositorio da sua equipe ou de alguem que fez alguma alteração e enviou para o repo remoto obs: é bom sempre manter seu arquivo att.
 
 git clone - para clonar o repositorio
+
+git rm 'nome do arquivo' - remove o arquivo selecionado 
+
+git log - mostra o historico de commits realizado    obs: crtl + q retorna para o terminal
+
+git mv 'nome do arquivo a ser movido para pasta' - move ou renomeia arquivos
+ex.:git mv rodape.css css/rodape.css = move o arquivo rodape.css para pasta css
+ex.:git mv css/bannerinicia.css css/banner_inicia.css - para renomear o arquivo
+
+git checkout 'nome da pasta' - retorna para o estado original(estado que o arquivo esta no repo)
+
+.gitignore - ignora arquivos e diretorios de um projeto
