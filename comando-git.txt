@@ -1,6 +1,5 @@
 Git / Github    
 
-
 Alguns comandos:
 
 git status - verifica o status do repositorio
