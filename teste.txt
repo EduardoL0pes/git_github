@@ -2,3 +2,4 @@ primeiro repositorio
 a
 b
 c
+testando uso do git fetch
