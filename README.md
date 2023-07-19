@@ -33,3 +33,10 @@
 [https://www.google.com](https://www.google.com)
 
 Perfil github: https://www.github.com/EduardoL0pes
+
+## Código da função soma
+
+```JavaScript
+    function soma(a, b) {
+        return a + b
+    }
