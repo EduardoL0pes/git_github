@@ -18,6 +18,6 @@
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
 
-### Imagem Externa
+### Imagem Local
 
-![Imagem aleatoria](http://placekitten.com/100/100)
+![Imagem aleatoria](./img/javascript.png)
