@@ -25,3 +25,7 @@
 ### Imagem Externa
 
 ![Logo JavaScript](https://th.bing.com/th/id/OIP.hJmTqLic36nBy1hivCq2EwAAAA?pid=ImgDet&rs=1)
+
+### Links Interessantes
+
+[Google](https://www.google.com)
