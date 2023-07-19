@@ -29,3 +29,7 @@
 ### Links Interessantes
 
 [Google](https://www.google.com)
+
+[https://www.google.com](https://www.google.com)
+
+Perfil github: https://www.github.com/EduardoL0pes
