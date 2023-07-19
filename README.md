@@ -20,4 +20,8 @@
 
 ### Imagem Local
 
-![Imagem aleatoria](./img/javascript.png)
+![Logo JavaScript](./img/javascript.png)
+
+### Imagem Externa
+
+![Logo JavaScript](https://th.bing.com/th/id/OIP.hJmTqLic36nBy1hivCq2EwAAAA?pid=ImgDet&rs=1)
