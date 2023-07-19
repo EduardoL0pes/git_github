@@ -40,3 +40,10 @@ Perfil github: https://www.github.com/EduardoL0pes
     function soma(a, b) {
         return a + b
     }
+```
+## Lista de tarefas a fazer:
+
+- [x] Área de membros
+- [] Integração com outros pagamentos
+- [] Página de contato
+- [x] Rodapé da página
